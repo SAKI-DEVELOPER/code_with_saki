@@ -1,0 +1,61 @@
+.container {
+    width: 600px;
+    height: 400px;
+    
+}
+
+.upper {
+
+    height: 100px;
+    background-color: rgb(206, 17, 38);
+}
+
+.the-flag {
+    color: #fff;
+    font-size: xx-large;
+    position: absolute;
+    margin-left: 250px;
+}
+
+.middle {
+    height: 200px;
+    background-color: rgb(0, 40, 104);
+    
+    
+
+}
+
+.center {
+    background-color: rgb(255, 255, 255);
+    height: 160px;
+    width: 160px;
+    border-radius: 100px;
+    align-items: center;
+    margin-top: 20px;
+    margin-right:220px ;
+    margin-bottom: 20px ;
+    margin-left: 220px ;
+    position: absolute;
+    
+    
+}
+
+.of-laos {
+    height: 80px;
+    border: #000;
+    font-size: 40px;
+    position: absolute;
+    font-weight: 400;
+    margin-left: 45px;
+    margin-top: 25px;
+}
+
+.centrise {
+    margin-left: 23px;
+}
+
+.lower {
+    height: 100px;
+    background-color: rgb(206, 17, 38);
+
+}
