@@ -107,6 +107,29 @@
   text-wrap: nowrap;
 }
 
-.testimonial-con {
-  margin-top: 7%;
+/* .testimonial-con {
+  margin-top: 10%;
+} */
+
+.four-pic {
+  /* border: 2px solid #f00;  */
+  /* display: flex; */
 }
+
+
+.four-pic img{
+  width: auto;
+  height: 30px;
+}
+
+/* @media (max-width:993px) and (min-width:20px) {
+  .four-pic {
+  border: 2px solid #f00; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+} */
+
+
